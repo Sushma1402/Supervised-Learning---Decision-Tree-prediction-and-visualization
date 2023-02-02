@@ -1,4 +1,4 @@
-# Supervised-Learning---Decision-Tree-prediction-and-visualization
+# Supervised Learning - Decision Tree prediction and visualization
 Problem statement:  To predict the safety of the car. Create the Decision Tree Classifier and Visualize it graphically.
 
 ## Mandatory Requirement: 
